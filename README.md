@@ -1,0 +1,2 @@
+# Konsole
+Konsole Theme
