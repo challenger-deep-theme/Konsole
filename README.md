@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 ![Challenger Deep](https://challenger-deep-theme.github.io/images/logo.png)
 
-### [Challenger Deep Theme](https://challenger-deep-theme.github.io/) for [Konsole](https://konsole.kde.org/)
-=======
-
-# [Challenger theme](https://challenger-deep-theme.github.io/) for [Konsole](https://konsole.kde.org/)
+# [Challenger Deep Theme](https://challenger-deep-theme.github.io/) for [Konsole](https://konsole.kde.org/)
 
 ## Installation
 
@@ -21,7 +17,4 @@ Download using the GitHub ZIP download option and unzip the file.
 
 ## Thanks
 
-Theme is originally created by [MaxSt](https://github.com/MaxSt)
-
 Readme is taken from [Dracula wiki](https://draculatheme.com/konsole)
->>>>>>> remote-1/main
