@@ -18,3 +18,5 @@ Download using the GitHub ZIP download option and unzip the file.
 ## Thanks
 
 Readme is taken from [Dracula wiki](https://draculatheme.com/konsole)
+
+:heart: Thanks to [ChVimal](https://github.com/ChVimal) for porting this theme.
